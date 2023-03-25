@@ -1,0 +1,8 @@
+#flex div{
+    display: flex;
+}
+#box
+{
+
+    background-image: linear-gradient(to right,rgba(150, 141, 141, 0.274),rgba(73, 151, 57, 0.651));
+}
